@@ -1,0 +1,12 @@
+package java_practice;
+//package contains files
+public class HelloWorld { 
+	//class_name is always same as file_name
+
+	public static void main(String[] args) {
+		System.out.println("HELLO JAVA");
+
+	}
+}
+
+OUTPUT: HELLO JAVA
